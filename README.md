@@ -8,3 +8,7 @@ This is a simulation of a web forum where students and teachers can create accou
 # Architecture
 
 We used the MVC ( Model-View-Controller) software pattern in order to seperate each aspect of the application's logic into seperate pieces. This allowed us to easily scale and modify it as necessary, and create structured and clean code.
+
+
+
+**Note:** This project was developed locally and then pushed to a repository when finished. Project was developed in a team of two using Real-time code collaboration software.
